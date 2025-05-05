@@ -1,2 +1,5 @@
-# ferdianpradana-Penerapan-K-Means-Clustering-pada-ulasan-aplikasi-shopee
-Repositori ini berisi studi eksplorasi data terhadap ulasan pengguna aplikasi Shopee Indonesia yang diambil dari kaggle. Tujuan dari analisis ini adalah untuk mengelompokkan ulasan berdasarkan kemiripan konten menggunakan metode TF-IDF dan K-Means Clustering.
+# Implementation of K-Means Clustering on Shopee application reviews
+This repository contains an exploratory data analysis of user reviews from the Shopee Indonesia
+application, sourced from Kaggle. The purpose of this analysis is to cluster the reviews based on
+content similarity using the TF-IDF method and K-Means Clustering, implemented in Python.
+
